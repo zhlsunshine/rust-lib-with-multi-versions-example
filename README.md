@@ -41,3 +41,6 @@ cargo build --features="v2"
 my_rust_lib_v2: 8
 The return value of my_rust_lib is [8]
 ```
+
+## Notes
+This rust example is for [A practice of rewriting foundation software from C to Rust(2)](https://medium.com/rustaceans/a-practice-of-rewriting-basic-software-from-c-to-rust-2-e2b09288fb94).
